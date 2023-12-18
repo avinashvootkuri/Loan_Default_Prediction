@@ -10,7 +10,7 @@ if an loanid is defaulted or not. Machine learning make help us with learning fr
 Dataset is obtained from Kaggle - https://www.kaggle.com/datasets/nikhil1e9/loan-default/data
 
 Features
-
+```
 Index    Column_name                                Description
 0       LoanID              A unique identifier for each loan.
 1       Age                 The age of the borrower.
@@ -30,18 +30,18 @@ Index    Column_name                                Description
 15      LoanPurpose         The purpose of the loan (Home, Auto, Education, Business, Other).
 16      HasCoSigner         Whether the loan has a co-signer (Yes or No).
 17      Default             The binary target variable indicating whether the loan defaulted (1) or not (0).
-
+```
 ## Solution:
 Loan default prediction is classification problem. We will exploring the various classification algorithms Logistic Regression, Decision Tree Classifier, Random Forest Classifier and Xgboost Classifier. 
 Based on the evaluation metrics we will show the best performing model. 
 
 ## Running Locally:
 To run the project locally, please follow the below steps:
-
-1. pip install pipenv
+```
+1. pip3 install pipenv
 2. pipenv shell 
 3. python3 train.py
-
+```
 # Getting Started:
 To run the project, please follow the below steps:
 
