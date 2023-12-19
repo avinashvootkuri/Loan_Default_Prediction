@@ -88,3 +88,5 @@ Once docker is up and running, you can start using the model by running the belo
     ```
     python predict-docker.py
     ```
+
+If you like my work above, please feel free to star it. Thank you!!
