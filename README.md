@@ -1,10 +1,9 @@
-### Loan Default Prediction (CAPSTONE PROJECT FOR MLZOOMCAMP 2023)
-## Project for MLZoomcamp course Capstone-1 Loan default prediction
+# Loan Default Prediction (CAPSTONE PROJECT-1 FOR MLZOOMCAMP 2023)
 
 ## Problem Statement:
 One of the primary objectives of companies with financial loan services is to decrease payment defaults and ensure that individuals are paying back their loans as expected. 
 Dataset consists of target variable (default 0/1) to identify if a loan with default or the payer has payed back as expetected. We will be using machince learning techniques to predict 
-if an loanid is defaulted or not. Machine learning make help us with learning from past applications data and make decision in realtime which helps with reduce human effort and increases efficiency
+if an loanid is defaulted or not. Machine learning make help us with learning from past applications data and make decision in realtime which helps with reduce human effort and increase efficiency.
 
 ## Dataset:
 Dataset is obtained from Kaggle - https://www.kaggle.com/datasets/nikhil1e9/loan-default/data
