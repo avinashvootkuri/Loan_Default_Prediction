@@ -35,14 +35,34 @@ Index    Column_name                                Description
 Loan default prediction is classification problem. We will exploring the various classification algorithms Logistic Regression, Decision Tree Classifier, Random Forest Classifier and Xgboost Classifier. 
 Based on the evaluation metrics we will show the best performing model. 
 
-## Running Locally:
+# Running Locally:
+
+## Prerequities: 
+please check if you have python version 3.9, if not download it from the link here - https://www.python.org/downloads/release/python-390/
+
 To run the project locally, please follow the below steps:
-```
-1. pip3 install pipenv
-2. pipenv shell 
-3. python3 train.py
-```
-# Getting Started:
+1. Clone the repo.
+2. Install pipenv using the command  
+    ```
+    1. pip install pipenv
+    ```
+3. Run the below command, inorder to install the required packages:
+    ```
+   pipenv install
+    ```
+4. Run the below command, to activate the virtual env created with the above command:
+   ```
+   pipenv shell
+   ```
+5. Run the train.py for local reproducability.
+   ``` 
+    python3 train.py
+    ```
+   You can also used the same virtual environment to run the notebook.ipynb file.
+
+   
+# Running on Docker 
+## Getting Started:
 To run the project, please follow the below steps:
 
 ## Prerequisties:
