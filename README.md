@@ -1,4 +1,4 @@
-# Loan Default Prediction (CAPSTONE PROJECT-1 FOR MLZOOMCAMP 2023)
+# Loan Default Prediction (Capstone project-1 for mlzoomcamp 2023)
 
 ## Problem Statement:
 One of the primary objectives of companies with financial loan services is to decrease payment defaults and ensure that individuals are paying back their loans as expected. 
